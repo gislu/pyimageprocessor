@@ -1,2 +1,2 @@
 # pyimageprocessor
-Simple image-processing scripts written by Python (based on opencv)
+Simple image-processing scripts based on opencv (python version)
